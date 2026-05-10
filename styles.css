@@ -345,15 +345,15 @@ body {
 }
 
 .mentor-logo {
-  height: 34px;
+  height: 26px;
   width: auto;
-  max-width: 138px;
+  max-width: 112px;
   object-fit: contain;
 }
 
 .mentor-logo-wide {
-  height: 42px;
-  max-width: 190px;
+  height: 32px;
+  max-width: 148px;
 }
 
 /* ===== SCHEDULE ===== */
