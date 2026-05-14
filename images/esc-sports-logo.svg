@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" role="img" aria-labelledby="title">
+  <title id="title">ESC Sports</title>
+  <rect width="360" height="120" fill="none"/>
+  <g fill="none" stroke="#0b3a53" stroke-width="8" stroke-linecap="round">
+    <path d="M38 78c20-44 57-44 77 0"/>
+    <path d="M48 56h57"/>
+  </g>
+  <text x="142" y="60" font-family="Arial, Helvetica, sans-serif"
+        font-size="44" font-weight="800" letter-spacing="1" fill="#0b0b0b">ESC</text>
+  <text x="145" y="90" font-family="Arial, Helvetica, sans-serif"
+        font-size="24" font-weight="700" letter-spacing="2" fill="#0b3a53">SPORTS</text>
+</svg>
