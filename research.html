@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ofir Lindenbaum - Research</title>
+    <link rel="stylesheet" href="styles.css?v=20260615-biu-logo" />
+  </head>
+  <body>
+    <header class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid nav-inner">
+        <a class="navbar-brand" href="index.html">
+          <img class="brand-logo" src="images/biu-logo.svg" alt="Bar-Ilan University logo" />
+          <span>Ofir Lindenbaum @ Bar-Ilan University</span>
+        </a>
+        <button class="navbar-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+        </button>
+        <nav class="navbar-links" aria-label="Main navigation">
+          <a href="index.html">Home</a><a href="team.html">Team</a><a href="publications.html">Publications</a><a href="research.html">Research</a>
+          <a href="https://engineering.biu.ac.il/sites/engineering/files/shared/ofir.lindenbaum.pdf" target="_blank" rel="noreferrer">CV</a><a href="#contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container-fluid page-content">
+      <h1>Research Highlights</h1>
+      <p>Our group builds machine learning methods for efficient AI systems, interpretable models, tabular learning, multimodal representation learning, and scientific discovery.</p>
+      <div class="research-grid">
+        <article class="research-card">
+          <img src="images/publications/visuals/train-less-method.png" alt="Structured sparsity method figure from the Train Less paper" />
+          <div class="research-card-body">
+            <h3>Parameter-Efficient Training</h3>
+            <p>We study low-rank optimization, structured sparsity, adaptive rank selection, and compression methods that make large models cheaper to train and deploy.</p>
+            <ul class="research-papers">
+              <li><a href="https://arxiv.org/abs/2505.24749" target="_blank" rel="noreferrer">SUMO</a> <span>NeurIPS 2025</span></li>
+              <li><a href="https://openreview.net/forum?id=LvNROciCne" target="_blank" rel="noreferrer">AdaRankGrad</a> <span>ICLR 2025</span></li>
+              <li><a href="https://arxiv.org/abs/2602.09169" target="_blank" rel="noreferrer">Train Less, Infer Faster</a> <span>AISTATS 2026</span></li>
+            </ul>
+          </div>
+        </article>
+        <article class="research-card">
+          <img src="images/publications/visuals/hybrid-autoencoders-method.png" alt="Hybrid Autoencoders method figure" />
+          <div class="research-card-body">
+            <h3>Tabular Deep Learning</h3>
+            <p>We design models for structured data where labels are scarce, features are heterogeneous, and explanations matter as much as predictive accuracy.</p>
+            <ul class="research-papers">
+              <li><a href="https://doi.org/10.48550/arXiv.2511.06961" target="_blank" rel="noreferrer">Hybrid Autoencoders</a> <span>NeurIPS 2025</span></li>
+              <li><a href="https://proceedings.mlr.press/v162/yang22i.html" target="_blank" rel="noreferrer">Locally Sparse Neural Networks</a> <span>ICML 2022</span></li>
+              <li><a href="https://proceedings.mlr.press/v267/peterfreund25a.html" target="_blank" rel="noreferrer">Partition First, Embed Later</a> <span>ICML 2025 Oral</span></li>
+            </ul>
+          </div>
+        </article>
+        <article class="research-card">
+          <img src="images/publications/visuals/groupfs-method.png" alt="GroupFS method figure" />
+          <div class="research-card-body">
+            <h3>Interpretability</h3>
+            <p>Our interpretability work focuses on feature selection, sparse local explanations, and concept-level structure that remains useful in real scientific datasets.</p>
+            <ul class="research-papers">
+              <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39521" target="_blank" rel="noreferrer">GroupFS</a> <span>AAAI 2026 Oral</span></li>
+              <li><a href="https://proceedings.mlr.press/v119/yamada20a.html" target="_blank" rel="noreferrer">Stochastic Gates</a> <span>ICML 2020</span></li>
+              <li><a href="https://proceedings.mlr.press/v235/sristi24a.html" target="_blank" rel="noreferrer">Conditional Stochastic Gates</a> <span>ICML 2024</span></li>
+            </ul>
+          </div>
+        </article>
+        <article class="research-card">
+          <img src="images/publications/visuals/coper-method.png" alt="COPER multi-view clustering method figure" />
+          <div class="research-card-body">
+            <h3>Multimodal Learning</h3>
+            <p>We develop representation learning tools for multiple views, modalities, and aligned or partially aligned observations, from clustering to spectral methods.</p>
+            <ul class="research-papers">
+              <li><a href="https://openreview.net/forum?id=5ZEbpBYGwH" target="_blank" rel="noreferrer">COPER</a> <span>ICLR 2025 Spotlight</span></li>
+              <li><a href="https://arxiv.org/abs/2605.25551" target="_blank" rel="noreferrer">Learning Permutation from Structure</a> <span>ICML 2026</span></li>
+              <li><a href="https://openreview.net/forum?id=X6IY04Akw1" target="_blank" rel="noreferrer">Robust Spectral Multi-view Learning</a> <span>TMLR 2025</span></li>
+            </ul>
+          </div>
+        </article>
+        <article class="research-card">
+          <img src="images/publications/visuals/geometry-results.png" alt="Geometry-based biological data generation result figure" />
+          <div class="research-card-body">
+            <h3>Computational Biology</h3>
+            <p>We use machine learning to study high-dimensional biological measurements, including single-cell data, adaptive immune receptors, and biomedical tabular prediction.</p>
+            <ul class="research-papers">
+              <li><a href="https://doi.org/10.1101/2025.11.23.689932" target="_blank" rel="noreferrer">DiCoLo</a> <span>RECOMB 2026</span></li>
+              <li><a href="https://papers.nips.cc/paper_files/paper/2018/hash/0a1bf96b7165e962e90cb14648c9462d-Abstract.html" target="_blank" rel="noreferrer">Geometry-Based Data Generation</a> <span>NeurIPS 2018 Spotlight</span></li>
+              <li><a href="https://doi.org/10.1093/nar/gkaa412" target="_blank" rel="noreferrer">Alignment-Free BCR Clone Identification</a> <span>NAR 2020</span></li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </main>
+    <footer id="contact" class="panel">
+      <div class="panel-footer"><div class="container-fluid footer-grid"><div><p>© <span id="current-year"></span> Ofir Lindenbaum.</p></div><div><p>Faculty of Engineering, Bar-Ilan University.</p></div><div><p><strong>Contact:</strong><br />ofir.lindenbaum@biu.ac.il</p></div></div></div>
+    </footer>
+    <script src="script.js?v=20260608-research-team"></script>
+  </body>
+</html>

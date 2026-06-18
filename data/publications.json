@@ -1,0 +1,1374 @@
+[
+  {
+    "year": 2026,
+    "title": "DiCoLo: Integration-free and cluster-free detection of localized differential gene co-expression in single-cell data",
+    "authors": [
+      "R. Li",
+      "J. Yang",
+      "P. C. Su",
+      "A. Jaffe",
+      "O. Lindenbaum",
+      "Y. Kluger"
+    ],
+    "venue": "RECOMB",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1101/2025.11.23.689932",
+    "dblp": ""
+  },
+  {
+    "year": 2026,
+    "title": "ICR-RL: Deep Reinforcement Learning via In-Context-Regression",
+    "authors": [
+      "D. Schiff",
+      "O. Lindenbaum",
+      "Y. Efroni"
+    ],
+    "venue": "ICML",
+    "type": "inproceedings",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2026,
+    "title": "Learning Permutation from Structure Without Supervision",
+    "authors": [
+      "R. Eisenberg",
+      "O. Lindenbaum"
+    ],
+    "venue": "ICML",
+    "type": "inproceedings",
+    "url": "https://arxiv.org/abs/2605.25551",
+    "dblp": ""
+  },
+  {
+    "year": 2026,
+    "title": "Lorenza: Enhancing Generalization in Low-Rank Gradient LLM Training via Efficient Zeroth-Order Adaptive SAM",
+    "authors": [
+      "Y. Refael",
+      "I. Arbel",
+      "O. Lindenbaum",
+      "T. Tirer"
+    ],
+    "venue": "TMLR",
+    "type": "article",
+    "url": "https://openreview.net/forum?id=YyA51ekcQo",
+    "dblp": "https://dblp.org/rec/journals/tmlr/RefaelALT26"
+  },
+  {
+    "year": 2026,
+    "title": "Train Less, Infer Faster: Efficient Model Finetuning and Compression via Structured Sparsity",
+    "authors": [
+      "J. Svirsky",
+      "Y. Refael",
+      "O. Lindenbaum"
+    ],
+    "venue": "AISTATS",
+    "type": "inproceedings",
+    "url": "https://arxiv.org/abs/2602.09169",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2602-09169"
+  },
+  {
+    "year": 2026,
+    "title": "Uncovering a Winning Lottery Ticket with Continuously Relaxed Bernoulli Gates",
+    "authors": [
+      "I. Tsayag",
+      "O. Lindenbaum"
+    ],
+    "venue": "EUSIPCO",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2603.08914",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2603-08914"
+  },
+  {
+    "year": 2026,
+    "title": "Unsupervised Feature Selection Through Group Discovery",
+    "authors": [
+      "S. Lifshitz",
+      "O. Lindenbaum",
+      "G. Mishne",
+      "R. Meir",
+      "H. Benisty"
+    ],
+    "venue": "AAAI",
+    "type": "inproceedings",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/39521",
+    "dblp": "https://dblp.org/rec/conf/aaai/LifshitzLMMB26"
+  },
+  {
+    "year": 2026,
+    "title": "No Prior, No Leakage: Revisiting Reconstruction Attacks in Trained Neural Networks",
+    "authors": [
+      "Y. Refael",
+      "G. Smorodinsky",
+      "O. Lindenbaum",
+      "I. Safran"
+    ],
+    "venue": "ICLR",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.48550/arXiv.2509.21296",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2509-21296"
+  },
+  {
+    "year": 2026,
+    "title": "TempoControl: Temporal Attention Guidance for Text-to-Video Models",
+    "authors": [
+      "S. Schiber",
+      "O. Lindenbaum",
+      "I. Schwartz"
+    ],
+    "venue": "CVPR",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.48550/arXiv.2510.02226",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2510-02226"
+  },
+  {
+    "year": 2025,
+    "title": "AdaRankGrad: Adaptive Gradient Rank and Moments for Memory-Efficient LLMs Training and Fine-Tuning",
+    "authors": [
+      "Y. Refael",
+      "J. Svirsky",
+      "B. Shustin",
+      "W. Huleihel",
+      "O. Lindenbaum"
+    ],
+    "venue": "ICLR",
+    "type": "inproceedings",
+    "url": "https://openreview.net/forum?id=LvNROciCne",
+    "dblp": "https://dblp.org/rec/conf/iclr/RefaelSSHL25"
+  },
+  {
+    "year": 2025,
+    "title": "Conditional Deep Canonical Time Warping",
+    "authors": [
+      "R. Eisenberg",
+      "A. Steinberg",
+      "O. Lindenbaum"
+    ],
+    "venue": "ICASSP",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1109/ICASSP49660.2025.10889394",
+    "dblp": "https://dblp.org/rec/conf/icassp/EisenbergSL25"
+  },
+  {
+    "year": 2025,
+    "title": "COPER: Correlation-based Permutations for Multi-View Clustering",
+    "authors": [
+      "R. Eisenberg",
+      "J. Svirsky",
+      "O. Lindenbaum"
+    ],
+    "venue": "ICLR",
+    "type": "inproceedings",
+    "url": "https://openreview.net/forum?id=5ZEbpBYGwH",
+    "dblp": "https://dblp.org/rec/conf/iclr/EisenbergSL25"
+  },
+  {
+    "year": 2025,
+    "title": "Detect and Correct: A Selective Noise Correction Method for Learning with Noisy Labels",
+    "authors": [
+      "Y. Grinberg",
+      "N. Harel",
+      "J. Goldberger",
+      "O. Lindenbaum"
+    ],
+    "venue": "WSCG",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.48550/arXiv.2505.13342",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2505-13342"
+  },
+  {
+    "year": 2025,
+    "title": "Enhancing sequence alignment of adaptive immune receptors through multi-task deep learning",
+    "authors": [
+      "T. Konstantinovsky",
+      "A. Peres",
+      "R. Eisenberg",
+      "P. Polak",
+      "O. Lindenbaum",
+      "..."
+    ],
+    "venue": "NAR",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2025,
+    "title": "From Segments to Concepts: Interpretable Image Classification via Concept-Guided Segmentation",
+    "authors": [
+      "R. Eisenberg",
+      "A. Rozner",
+      "E. Fetaya",
+      "O. Lindenbaum"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2510.04180",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2510-04180"
+  },
+  {
+    "year": 2025,
+    "title": "Generalizable and Robust Spectral Method for Multi-view Representation Learning",
+    "authors": [
+      "A. Yacobi",
+      "O. Lindenbaum",
+      "U. Shaham"
+    ],
+    "venue": "TMLR",
+    "type": "article",
+    "url": "https://openreview.net/forum?id=X6IY04Akw1",
+    "dblp": "https://dblp.org/rec/journals/tmlr/YacobiL025"
+  },
+  {
+    "year": 2025,
+    "title": "Hybrid Autoencoders for Tabular Data: Leveraging Model-Based Augmentation in Low-Label Settings",
+    "authors": [
+      "E. Naor",
+      "O. Lindenbaum"
+    ],
+    "venue": "NeurIPS",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.48550/arXiv.2511.06961",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2511-06961"
+  },
+  {
+    "year": 2025,
+    "title": "Partition First, Embed Later: Laplacian-Based Feature Partitioning for Refined Embedding and Visualization of High-Dimensional Data",
+    "authors": [
+      "E. Peterfreund",
+      "O. Lindenbaum",
+      "Y. Kluger",
+      "B. Landa"
+    ],
+    "venue": "ICML",
+    "type": "inproceedings",
+    "url": "https://proceedings.mlr.press/v267/peterfreund25a.html",
+    "dblp": "https://dblp.org/rec/conf/icml/PeterfreundLKL25"
+  },
+  {
+    "year": 2025,
+    "title": "Principled PCA separates signal from noise in omics count data",
+    "authors": [
+      "J. S. Stanley III",
+      "J. Yang",
+      "R. Li",
+      "O. Lindenbaum",
+      "D. Kobak",
+      "B. Landa",
+      "Y. Kluger"
+    ],
+    "venue": "bioRxiv",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2025,
+    "title": "Provable Speech Attributes Conversion via Latent Independence",
+    "authors": [
+      "J. Svirsky",
+      "O. Lindenbaum",
+      "U. Shaham"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2510.05191",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2510-05191"
+  },
+  {
+    "year": 2025,
+    "title": "SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training",
+    "authors": [
+      "Y. Refael",
+      "G. Smorodinsky",
+      "T. Tirer",
+      "O. Lindenbaum"
+    ],
+    "venue": "NeurIPS",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.48550/arXiv.2505.24749",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2505-24749"
+  },
+  {
+    "year": 2025,
+    "title": "Supervised Embedded Methods for Hyperspectral Band Selection",
+    "authors": [
+      "Y. Zimmer",
+      "O. Lindenbaum",
+      "O. Glickman"
+    ],
+    "venue": "ECAI",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.3233/FAIA251180",
+    "dblp": "https://dblp.org/rec/conf/ecai/ZimmerLG25"
+  },
+  {
+    "year": 2025,
+    "title": "Synthetic Aperture Local Conformal Autoencoder for Semi-Supervised Speaker's DOA Tracking",
+    "authors": [
+      "I. Cohen",
+      "S. Gannot",
+      "O. Lindenbaum"
+    ],
+    "venue": "TASLP",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2025,
+    "title": "Unveiling Multiple Descents in Unsupervised Autoencoders",
+    "authors": [
+      "K. Rahimi",
+      "Y. Refael",
+      "T. Tirer",
+      "O. Lindenbaum"
+    ],
+    "venue": "TMLR",
+    "type": "article",
+    "url": "https://openreview.net/forum?id=FqfHDs6unx",
+    "dblp": "https://dblp.org/rec/journals/tmlr/RahimiRTL25"
+  },
+  {
+    "year": 2024,
+    "title": "Anomaly Detection with Variance Stabilized Density Estimation",
+    "authors": [
+      "A. Rozner",
+      "B. Battash",
+      "H. Li",
+      "L. Wolf",
+      "O. Lindenbaum"
+    ],
+    "venue": "UAI",
+    "type": "inproceedings",
+    "url": "https://proceedings.mlr.press/v244/rozner24a.html",
+    "dblp": "https://dblp.org/rec/conf/uai/RoznerBLWL24"
+  },
+  {
+    "year": 2024,
+    "title": "Classifying Neuronal Cell Types Based on Shared Electrophysiological Information from Humans and Mice",
+    "authors": [
+      "O. Ophir",
+      "O. Shefi",
+      "O. Lindenbaum"
+    ],
+    "venue": "Neuroinformatics",
+    "type": "article",
+    "url": "https://doi.org/10.1007/s12021-024-09675-5",
+    "dblp": "https://dblp.org/rec/journals/ni/OphirSL24"
+  },
+  {
+    "year": 2024,
+    "title": "Contextual Feature Selection with Conditional Stochastic Gates",
+    "authors": [
+      "R. D. Sristi",
+      "O. Lindenbaum",
+      "S. Lifshitz",
+      "M. Lavzin",
+      "J. Schiller",
+      "G. Mishne",
+      "H. Benisty"
+    ],
+    "venue": "ICML",
+    "type": "inproceedings",
+    "url": "https://proceedings.mlr.press/v235/sristi24a.html",
+    "dblp": "https://dblp.org/rec/conf/icml/SristiLLLSMB24"
+  },
+  {
+    "year": 2024,
+    "title": "Domain-Generalizable Multiple-Domain Clustering",
+    "authors": [
+      "A. Rozner",
+      "B. Battash",
+      "L. Wolf",
+      "O. Lindenbaum"
+    ],
+    "venue": "TMLR",
+    "type": "article",
+    "url": "https://openreview.net/forum?id=O9RUANpPmb",
+    "dblp": "https://dblp.org/rec/journals/tmlr/RoznerBWL24"
+  },
+  {
+    "year": 2024,
+    "title": "Efficient Verification-Based Face Identification",
+    "authors": [
+      "A. Rozner",
+      "B. Battash",
+      "O. Lindenbaum",
+      "L. Wolf"
+    ],
+    "venue": "FG",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1109/FG59268.2024.10582040",
+    "dblp": "https://dblp.org/rec/conf/fgr/RoznerBLW24"
+  },
+  {
+    "year": 2024,
+    "title": "Interpretable Deep Clustering for Tabular Data",
+    "authors": [
+      "J. Svirsky",
+      "O. Lindenbaum"
+    ],
+    "venue": "ICML",
+    "type": "inproceedings",
+    "url": "https://proceedings.mlr.press/v235/svirsky24a.html",
+    "dblp": "https://dblp.org/rec/conf/icml/SvirskyL24"
+  },
+  {
+    "year": 2024,
+    "title": "Knowledge Editing in Language Models via Adapted Direct Preference Optimization",
+    "authors": [
+      "A. Rozner",
+      "B. Battash",
+      "L. Wolf",
+      "O. Lindenbaum"
+    ],
+    "venue": "EMNLP Findings",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.18653/v1/2024.findings-emnlp.273",
+    "dblp": "https://dblp.org/rec/conf/emnlp/RoznerBWL24"
+  },
+  {
+    "year": 2024,
+    "title": "Multiple Descents in Unsupervised Learning: The Role of Noise, Domain Shift and Anomalies",
+    "authors": [
+      "K. Rahimi",
+      "T. Tirer",
+      "O. Lindenbaum"
+    ],
+    "venue": "TMLR",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2406.11703",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2406-11703"
+  },
+  {
+    "year": 2024,
+    "title": "Obtaining Favorable Layouts for Multiple Object Generation",
+    "authors": [
+      "B. Battash",
+      "A. Rozner",
+      "L. Wolf",
+      "O. Lindenbaum"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2405.00791",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2405-00791"
+  },
+  {
+    "year": 2024,
+    "title": "Revisiting the Noise Model of Stochastic Gradient Descent",
+    "authors": [
+      "B. Battash",
+      "L. Wolf",
+      "O. Lindenbaum"
+    ],
+    "venue": "AISTATS",
+    "type": "inproceedings",
+    "url": "https://proceedings.mlr.press/v238/battash24a.html",
+    "dblp": "https://dblp.org/rec/conf/aistats/BattashWL24"
+  },
+  {
+    "year": 2024,
+    "title": "SEL-CIE: Self-Supervised Learning Framework for CIE-XYZ Reconstruction from Non-Linear sRGB Images",
+    "authors": [
+      "S. Barzel"
+    ],
+    "venue": "WSCG",
+    "type": "inproceedings",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2024,
+    "title": "Self Supervised Correlation-based Permutations for Multi-View Clustering",
+    "authors": [
+      "R. Eisenberg",
+      "J. Svirsky",
+      "O. Lindenbaum"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2402.16383",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2402-16383"
+  },
+  {
+    "year": 2024,
+    "title": "Sparse Binarization for Fast Keyword Spotting",
+    "authors": [
+      "J. Svirsky",
+      "U. Shaham",
+      "O. Lindenbaum"
+    ],
+    "venue": "INTERSPEECH",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.21437/Interspeech.2024-389",
+    "dblp": "https://dblp.org/rec/conf/interspeech/Svirsky0L24"
+  },
+  {
+    "year": 2024,
+    "title": "SpecRaGE: Robust and Generalizable Multi-view Spectral Representation Learning",
+    "authors": [
+      "A. Yacobi",
+      "O. Lindenbaum",
+      "U. Shaham"
+    ],
+    "venue": "TMLR",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2411.02138",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2411-02138"
+  },
+  {
+    "year": 2024,
+    "title": "Spectral Self-supervised Feature Selection",
+    "authors": [
+      "D. Segal",
+      "O. Lindenbaum",
+      "A. Jaffe"
+    ],
+    "venue": "TMLR",
+    "type": "article",
+    "url": "https://openreview.net/forum?id=t0EJiOd9Lg",
+    "dblp": "https://dblp.org/rec/journals/tmlr/SegalLJ24"
+  },
+  {
+    "year": 2024,
+    "title": "Transductive and Inductive Outlier Detection with Robust Autoencoders",
+    "authors": [
+      "O. Lindenbaum",
+      "Y. Aizenbud",
+      "Y. Kluger"
+    ],
+    "venue": "UAI",
+    "type": "inproceedings",
+    "url": "https://proceedings.mlr.press/v244/lindenbaum24a.html",
+    "dblp": "https://dblp.org/rec/conf/uai/LindenbaumAK24"
+  },
+  {
+    "year": 2024,
+    "title": "TransformLLM: Adapting Large Language Models via LLM-Transformed Reading Comprehension Text",
+    "authors": [
+      "I. Arbel",
+      "Y. Refael",
+      "O. Lindenbaum"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2410.21479",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2410-21479"
+  },
+  {
+    "year": 2024,
+    "title": "Unsupervised Acoustic Scene Mapping Based on Acoustic Features and Dimensionality Reduction",
+    "authors": [
+      "I. Cohen",
+      "S. Gannot",
+      "O. Lindenbaum"
+    ],
+    "venue": "ICASSP",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1109/ICASSP48485.2024.10447788",
+    "dblp": "https://dblp.org/rec/conf/icassp/CohenGL24"
+  },
+  {
+    "year": 2023,
+    "title": "Domain and Modality Adaptation Using Multi-Kernel Matching",
+    "authors": [
+      "T. B. Yampolsky",
+      "R. Talmon",
+      "O. Lindenbaum"
+    ],
+    "venue": "EUSIPCO",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.23919/EUSIPCO58844.2023.10290039",
+    "dblp": "https://dblp.org/rec/conf/eusipco/YampolskyTL23"
+  },
+  {
+    "year": 2023,
+    "title": "Gappy local conformal auto-encoders for heterogeneous data fusion: in praise of rigidity",
+    "authors": [
+      "E. Peterfreund",
+      "I. Burak",
+      "O. Lindenbaum",
+      "J. Gimlett",
+      "F. Dietrich",
+      "R. R. Coifman",
+      "I. G. Kevrekidis"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2312.13155",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2312-13155"
+  },
+  {
+    "year": 2023,
+    "title": "Multi-modal differentiable unsupervised feature selection",
+    "authors": [
+      "J. Yang",
+      "O. Lindenbaum",
+      "Y. Kluger",
+      "A. Jaffe"
+    ],
+    "venue": "UAI",
+    "type": "inproceedings",
+    "url": "https://proceedings.mlr.press/v216/yang23c.html",
+    "dblp": "https://dblp.org/rec/conf/uai/YangLKJ23"
+  },
+  {
+    "year": 2023,
+    "title": "Neuronal Cell Type Classification using Deep Learning",
+    "authors": [
+      "O. Ophir",
+      "O. Shefi",
+      "O. Lindenbaum"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2306.00528",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2306-00528"
+  },
+  {
+    "year": 2023,
+    "title": "Neuronal Cell Type Classification Using Locally Sparse Networks",
+    "authors": [
+      "O. Ophir",
+      "O. Shefi",
+      "O. Lindenbaum"
+    ],
+    "venue": "ICASSPW",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1109/ICASSPW59220.2023.10193577",
+    "dblp": "https://dblp.org/rec/conf/icassp/OphirSL23"
+  },
+  {
+    "year": 2023,
+    "title": "Revisiting the noise Model of SGD",
+    "authors": [
+      "B. Battash",
+      "L. Wolf",
+      "O. Lindenbaum"
+    ],
+    "venue": "NeurIPS Workshop",
+    "type": "inproceedings",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2023,
+    "title": "SG-VAD: Stochastic Gates Based Speech Activity Detection",
+    "authors": [
+      "J. Svirsky",
+      "O. Lindenbaum"
+    ],
+    "venue": "ICASSP",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1109/ICASSP49357.2023.10096938",
+    "dblp": "https://dblp.org/rec/conf/icassp/SvirskyL23"
+  },
+  {
+    "year": 2023,
+    "title": "Support recovery with Projected Stochastic Gates: Theory and application for linear models",
+    "authors": [
+      "S. Jana",
+      "H. Li",
+      "Y. Yamada",
+      "O. Lindenbaum"
+    ],
+    "venue": "Signal Processing",
+    "type": "article",
+    "url": "https://doi.org/10.1016/j.sigpro.2023.109193",
+    "dblp": "https://dblp.org/rec/journals/sigpro/JanaLYL23"
+  },
+  {
+    "year": 2023,
+    "title": "TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models",
+    "authors": [
+      "G. Zamberg",
+      "M. Salhov",
+      "O. Lindenbaum",
+      "A. Averbuch"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2307.12336",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2307-12336"
+  },
+  {
+    "year": 2022,
+    "title": "Deep unsupervised feature selection by discarding nuisance and correlated features",
+    "authors": [
+      "U. Shaham",
+      "O. Lindenbaum",
+      "J. Svirsky",
+      "Y. Kluger"
+    ],
+    "venue": "Neural Networks",
+    "type": "article",
+    "url": "https://doi.org/10.1016/j.neunet.2022.04.002",
+    "dblp": "https://dblp.org/rec/journals/nn/ShahamLSK22"
+  },
+  {
+    "year": 2022,
+    "title": "Histopathologic and machine deep learning criteria to predict lymphoma transformation in bone marrow biopsies",
+    "authors": [
+      "L. Irshaid",
+      "J. Bleiberg",
+      "E. Weinberger",
+      "J. Garritano",
+      "R. M. Shallis",
+      "J. Patsenker",
+      "..."
+    ],
+    "venue": "Arch. Pathol. Lab. Med.",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2022,
+    "title": "HIV viral transcription and immune perturbations in the CNS of people with HIV despite ART",
+    "authors": [
+      "S. F. Farhadian",
+      "O. Lindenbaum",
+      "J. Zhao",
+      "M. J. Corley",
+      "Y. Im",
+      "H. Walsh",
+      "..."
+    ],
+    "venue": "JCI Insight",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2022,
+    "title": "Imbalanced Classification via a Tabular Translation GAN",
+    "authors": [
+      "J. Gradstein",
+      "M. Salhov",
+      "Y. Tulpan",
+      "O. Lindenbaum",
+      "A. Averbuch"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://doi.org/10.48550/arXiv.2204.08683",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2204-08683"
+  },
+  {
+    "year": 2022,
+    "title": "Imbalanced classification via explicit gradient learning from augmented data",
+    "authors": [
+      "B. Yasinnik",
+      "M. Salhov",
+      "O. Lindenbaum",
+      "A. Averbuch"
+    ],
+    "venue": "arXiv",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2022,
+    "title": "L0-Sparse Canonical Correlation Analysis",
+    "authors": [
+      "O. Lindenbaum",
+      "M. Salhov",
+      "A. Averbuch",
+      "Y. Kluger"
+    ],
+    "venue": "ICLR",
+    "type": "inproceedings",
+    "url": "https://openreview.net/forum?id=KntaNRo6R48",
+    "dblp": "https://dblp.org/rec/conf/iclr/LindenbaumSAK22"
+  },
+  {
+    "year": 2022,
+    "title": "Locally Sparse Neural Networks for Tabular Biomedical Data",
+    "authors": [
+      "J. Yang",
+      "O. Lindenbaum",
+      "Y. Kluger"
+    ],
+    "venue": "ICML",
+    "type": "inproceedings",
+    "url": "https://proceedings.mlr.press/v162/yang22i.html",
+    "dblp": "https://dblp.org/rec/conf/icml/YangLK22"
+  },
+  {
+    "year": 2022,
+    "title": "Refined least squares for support recovery",
+    "authors": [
+      "O. Lindenbaum",
+      "S. Steinerberger"
+    ],
+    "venue": "Signal Processing",
+    "type": "article",
+    "url": "https://doi.org/10.1016/j.sigpro.2022.108493",
+    "dblp": "https://dblp.org/rec/journals/sigpro/LindenbaumS22"
+  },
+  {
+    "year": 2021,
+    "title": "Array based earthquakes-explosion discrimination using diffusion maps",
+    "authors": [
+      "Y. Bregman",
+      "O. Lindenbaum",
+      "N. Rabin"
+    ],
+    "venue": "Pure Appl. Geophys.",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2021,
+    "title": "Detection of differentially abundant cell subpopulations in scRNA-seq data",
+    "authors": [
+      "J. Zhao",
+      "A. Jaffe",
+      "H. Li",
+      "O. Lindenbaum",
+      "E. Sefik",
+      "R. Jackson",
+      "X. Cheng",
+      "..."
+    ],
+    "venue": "PNAS",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2021,
+    "title": "Differentiable Unsupervised Feature Selection based on a Gated Laplacian",
+    "authors": [
+      "O. Lindenbaum",
+      "U. Shaham",
+      "E. Peterfreund",
+      "J. Svirsky",
+      "N. Casey",
+      "Y. Kluger"
+    ],
+    "venue": "NeurIPS",
+    "type": "inproceedings",
+    "url": "https://proceedings.neurips.cc/paper/2021/hash/0bc10d8a74dbafbf242e30433e83aa56-Abstract.html",
+    "dblp": "https://dblp.org/rec/conf/nips/LindenbaumSPSCK21"
+  },
+  {
+    "year": 2021,
+    "title": "Locally Sparse Networks for Interpretable Predictions",
+    "authors": [
+      "J. Yang",
+      "O. Lindenbaum",
+      "Y. Kluger"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://arxiv.org/abs/2106.06468",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2106-06468"
+  },
+  {
+    "year": 2021,
+    "title": "Probabilistic Robust Autoencoders for Anomaly Detection",
+    "authors": [
+      "Y. Aizenbud",
+      "O. Lindenbaum",
+      "Y. Kluger"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://arxiv.org/abs/2110.00494",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2110-00494"
+  },
+  {
+    "year": 2021,
+    "title": "Randomly aggregated least squares for support recovery",
+    "authors": [
+      "O. Lindenbaum",
+      "S. Steinerberger"
+    ],
+    "venue": "Signal Processing",
+    "type": "article",
+    "url": "https://doi.org/10.1016/j.sigpro.2020.107858",
+    "dblp": "https://dblp.org/rec/journals/sigpro/LindenbaumS21"
+  },
+  {
+    "year": 2021,
+    "title": "Support Recovery with Stochastic Gates: Theory and Application for Linear Models",
+    "authors": [
+      "S. Jana",
+      "H. Li",
+      "Y. Yamada",
+      "O. Lindenbaum"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://arxiv.org/abs/2110.15960",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2110-15960"
+  },
+  {
+    "year": 2020,
+    "title": "Alignment free identification of clones in B cell receptor repertoires",
+    "authors": [
+      "O. Lindenbaum",
+      "N. Nouri",
+      "Y. Kluger",
+      "S. Kleinstein"
+    ],
+    "venue": "NAR",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2020,
+    "title": "Deep Gated Canonical Correlation Analysis",
+    "authors": [
+      "O. Lindenbaum",
+      "M. Salhov",
+      "A. Averbuch",
+      "Y. Kluger"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://arxiv.org/abs/2010.05620",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2010-05620"
+  },
+  {
+    "year": 2020,
+    "title": "Feature Selection using Stochastic Gates",
+    "authors": [
+      "Y. Yamada",
+      "O. Lindenbaum",
+      "S. Negahban",
+      "Y. Kluger"
+    ],
+    "venue": "ICML",
+    "type": "inproceedings",
+    "url": "http://proceedings.mlr.press/v119/yamada20a.html",
+    "dblp": "https://dblp.org/rec/conf/icml/YamadaLNK20"
+  },
+  {
+    "year": 2020,
+    "title": "Gaussian bandwidth selection for manifold learning and classification",
+    "authors": [
+      "O. Lindenbaum",
+      "M. Salhov",
+      "A. Yeredor",
+      "A. Averbuch"
+    ],
+    "venue": "DMKD",
+    "type": "article",
+    "url": "https://doi.org/10.1007/s10618-020-00692-x",
+    "dblp": "https://dblp.org/rec/journals/datamine/LindenbaumSYA20"
+  },
+  {
+    "year": 2020,
+    "title": "Kernel-based parameter estimation of dynamical systems with unknown observation functions",
+    "authors": [
+      "O. Lindenbaum",
+      "A. Sagiv",
+      "G. Mishne",
+      "R. Talmon"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://arxiv.org/abs/2009.04142",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2009-04142"
+  },
+  {
+    "year": 2020,
+    "title": "Let the Data Choose its Features: Differentiable Unsupervised Feature Selection",
+    "authors": [
+      "O. Lindenbaum",
+      "U. Shaham",
+      "J. Svirsky",
+      "E. Peterfreund",
+      "Y. Kluger"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://arxiv.org/abs/2007.04728",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2007-04728"
+  },
+  {
+    "year": 2020,
+    "title": "LOCA: LOcal Conformal Autoencoder for standardized data coordinates",
+    "authors": [
+      "E. Peterfreund",
+      "O. Lindenbaum",
+      "F. Dietrich",
+      "T. Bertalan",
+      "M. Gavish",
+      "I. G. Kevrekidis",
+      "R. R. Coifman"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "https://arxiv.org/abs/2004.07234",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-2004-07234"
+  },
+  {
+    "year": 2020,
+    "title": "Multi-view diffusion maps",
+    "authors": [
+      "O. Lindenbaum",
+      "A. Yeredor",
+      "M. Salhov",
+      "A. Averbuch"
+    ],
+    "venue": "Information Fusion",
+    "type": "article",
+    "url": "https://doi.org/10.1016/j.inffus.2019.08.005",
+    "dblp": "https://dblp.org/rec/journals/inffus/LindenbaumYSA20"
+  },
+  {
+    "year": 2020,
+    "title": "Multi-view kernel consensus for data analysis",
+    "authors": [
+      "M. Salhov",
+      "O. Lindenbaum",
+      "Y. Aizenbud",
+      "A. Silberschatz",
+      "Y. Shkolnisky",
+      "..."
+    ],
+    "venue": "ACHA",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2020,
+    "title": "Seismic Event Discrimination Using Deep CCA",
+    "authors": [
+      "O. Lindenbaum",
+      "N. Rabin",
+      "Y. Bregman",
+      "A. Averbuch"
+    ],
+    "venue": "GRSL",
+    "type": "article",
+    "url": "https://doi.org/10.1109/LGRS.2019.2959554",
+    "dblp": "https://dblp.org/rec/journals/lgrs/LindenbaumRBA20"
+  },
+  {
+    "year": 2020,
+    "title": "The Spectral Underpinning of word2vec",
+    "authors": [
+      "A. Jaffe",
+      "Y. Kluger",
+      "O. Lindenbaum",
+      "J. Patsenker",
+      "E. Peterfreund",
+      "S. Steinerberger"
+    ],
+    "venue": "Frontiers",
+    "type": "article",
+    "url": "https://doi.org/10.3389/fams.2020.593406",
+    "dblp": "https://dblp.org/rec/journals/fams/JaffeKLPPS20"
+  },
+  {
+    "year": 2020,
+    "title": "Variational Diffusion Autoencoders with Random Walk Sampling",
+    "authors": [
+      "H. Li",
+      "O. Lindenbaum",
+      "X. Cheng",
+      "A. Cloninger"
+    ],
+    "venue": "ECCV (23)",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1007/978-3-030-58592-1_22",
+    "dblp": "https://dblp.org/rec/conf/eccv/LiLCC20"
+  },
+  {
+    "year": 2019,
+    "title": "Diffusion Variational Autoencoders",
+    "authors": [
+      "H. Li",
+      "O. Lindenbaum",
+      "X. Cheng",
+      "A. Cloninger"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "http://arxiv.org/abs/1905.12724",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-1905-12724"
+  },
+  {
+    "year": 2019,
+    "title": "Variational Random Walk Autoencoders",
+    "authors": [
+      "H. Li",
+      "O. Lindenbaum",
+      "X. Cheng",
+      "A. Cloninger"
+    ],
+    "venue": "arXiv",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2018,
+    "title": "Deep supervised feature selection using Stochastic Gates",
+    "authors": [
+      "Y. Yamada",
+      "O. Lindenbaum",
+      "S. Negahban",
+      "Y. Kluger"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "http://arxiv.org/abs/1810.04247",
+    "dblp": "https://dblp.org/rec/journals/corr/abs-1810-04247"
+  },
+  {
+    "year": 2018,
+    "title": "Geometry Based Data Generation",
+    "authors": [
+      "O. Lindenbaum",
+      "J. S. Stanley III",
+      "G. Wolf",
+      "S. Krishnaswamy"
+    ],
+    "venue": "NeurIPS",
+    "type": "inproceedings",
+    "url": "https://proceedings.neurips.cc/paper/2018/hash/c8ed21db4f678f3b13b9d5ee16489088-Abstract.html",
+    "dblp": "https://dblp.org/rec/conf/nips/LindenbaumSWK18"
+  },
+  {
+    "year": 2018,
+    "title": "Multiview Kernels for Low-Dimensional Modeling of Seismic Events",
+    "authors": [
+      "O. Lindenbaum",
+      "Y. Bregman",
+      "N. Rabin",
+      "A. Averbuch"
+    ],
+    "venue": "TGRS",
+    "type": "article",
+    "url": "https://doi.org/10.1109/TGRS.2018.2797537",
+    "dblp": "https://dblp.org/rec/journals/tgrs/LindenbaumBRA18"
+  },
+  {
+    "year": 2017,
+    "title": "Kernel Scaling for Manifold Learning and Classification",
+    "authors": [
+      "O. Lindenbaum",
+      "M. Salhov",
+      "A. Yeredor",
+      "A. Averbuch"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "http://arxiv.org/abs/1707.01093",
+    "dblp": "https://dblp.org/rec/journals/corr/LindenbaumSYA17"
+  },
+  {
+    "year": 2017,
+    "title": "Learning from Multiple Views Using Diffusion Maps",
+    "authors": [
+      "O. Lindenbaum"
+    ],
+    "venue": "PhD Thesis",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2016,
+    "title": "Clustering Based on MultiView Diffusion Maps",
+    "authors": [
+      "O. Lindenbaum",
+      "A. Yeredor",
+      "A. Averbuch"
+    ],
+    "venue": "ICDM Workshops",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1109/ICDMW.2016.0109",
+    "dblp": "https://dblp.org/rec/conf/icdm/LindenbaumYA16"
+  },
+  {
+    "year": 2016,
+    "title": "Earthquake-explosion discrimination using diffusion maps",
+    "authors": [
+      "N. Rabin",
+      "Y. Bregman",
+      "O. Lindenbaum",
+      "Y. Ben-Horin",
+      "A. Averbuch"
+    ],
+    "venue": "Geophysical Journal Internationa",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2016,
+    "title": "Multi-channel fusion for seismic event detection and classification",
+    "authors": [
+      "O. Lindenbaum",
+      "N. Rabin",
+      "Y. Bregman",
+      "A. Averbuch"
+    ],
+    "venue": "ICSEE",
+    "type": "inproceedings",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2016,
+    "title": "Multi-View Kernel Consensus For Data Analysis and Signal Processing",
+    "authors": [
+      "M. Salhov",
+      "O. Lindenbaum",
+      "A. Silberschatz",
+      "Y. Shkolnisky",
+      "A. Averbuch"
+    ],
+    "venue": "arXiv",
+    "type": "article",
+    "url": "http://arxiv.org/abs/1606.08819",
+    "dblp": "https://dblp.org/rec/journals/corr/SalhovLSSA16"
+  },
+  {
+    "year": 2016,
+    "title": "Multi-view kernel-based data analysis",
+    "authors": [
+      "A. Averbuch",
+      "M. Salhov",
+      "O. Lindenbaum",
+      "A. Silberschatz",
+      "Y. Shkolnisky"
+    ],
+    "venue": "ICSEE",
+    "type": "inproceedings",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 2015,
+    "title": "Blind Separation of Orthogonal Mixtures of Spatially-Sparse Sources with Unknown Sparsity Levels and with Temporal Blocks",
+    "authors": [
+      "O. Lindenbaum",
+      "A. Yeredor",
+      "R. Vitek",
+      "M. Mishali"
+    ],
+    "venue": "Signal Processing",
+    "type": "article",
+    "url": "https://doi.org/10.1007/s11265-014-0918-8",
+    "dblp": "https://dblp.org/rec/journals/vlsisp/LindenbaumYVM15"
+  },
+  {
+    "year": 2015,
+    "title": "Learning Coupled Embedding Using MultiView Diffusion Maps",
+    "authors": [
+      "O. Lindenbaum",
+      "A. Yeredor",
+      "M. Salhov"
+    ],
+    "venue": "LVA/ICA",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1007/978-3-319-22482-4_15",
+    "dblp": "https://dblp.org/rec/conf/ica/LindenbaumYS15"
+  },
+  {
+    "year": 2015,
+    "title": "Musical key extraction using diffusion maps",
+    "authors": [
+      "O. Lindenbaum",
+      "A. Yeredor",
+      "I. Cohen"
+    ],
+    "venue": "Signal Processing",
+    "type": "article",
+    "url": "https://doi.org/10.1016/j.sigpro.2015.05.006",
+    "dblp": "https://dblp.org/rec/journals/sigpro/LindenbaumYC15"
+  },
+  {
+    "year": 2013,
+    "title": "Blind separation of spatially-block-sparse sources from orthogonal mixtures",
+    "authors": [
+      "O. Lindenbaum",
+      "A. Yeredor",
+      "R. Vitek",
+      "M. Mishali"
+    ],
+    "venue": "MLSP",
+    "type": "inproceedings",
+    "url": "https://doi.org/10.1109/MLSP.2013.6661896",
+    "dblp": "https://dblp.org/rec/conf/mlsp/LindenbaumYVM13"
+  },
+  {
+    "year": 2010,
+    "title": "Musical features extraction for audio-based search",
+    "authors": [
+      "O. Lindenbaum",
+      "S. Maskit",
+      "O. Kutiel",
+      "G. Nave"
+    ],
+    "venue": "IEEEI",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 0,
+    "title": "Fast and Stable Continual Test-Time Adaptation via Masked Modeling and Momentum-Guided Updates",
+    "authors": [
+      "R. Amar",
+      "O. Lindenbaum"
+    ],
+    "venue": "Preprint",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 0,
+    "title": "Multiple Descents in Unsupervised Auto-Encoders: The Role of Noise, Domain Shift and Anomalies",
+    "authors": [
+      "K. Rahimi",
+      "T. Tirer",
+      "O. Lindenbaum"
+    ],
+    "venue": "Preprint",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 0,
+    "title": "Supervised Band Selection with a Concrete Layer for Hyperspectral Imagery in Remote Sensing and Autonomous Driving",
+    "authors": [
+      "Y. Zimmer",
+      "O. Lindenbaum",
+      "O. Glickman"
+    ],
+    "venue": "Preprint",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  },
+  {
+    "year": 0,
+    "title": "Tabular Deep-SMOTE: A supervised autoencoder-based minority-oversampling technique for class-imbalanced tabular classification",
+    "authors": [
+      "D. Lawton",
+      "M. Salhov",
+      "O. Lindenbaum",
+      "A. Averbuch"
+    ],
+    "venue": "Preprint",
+    "type": "scholar",
+    "url": "",
+    "dblp": ""
+  }
+]

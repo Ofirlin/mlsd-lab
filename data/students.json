@@ -1,0 +1,37 @@
+{
+  "phd": [
+    {"name":"Ran Eisenberg","status":"","note":"Deep learning techniques for multimodal omic data"},
+    {"name":"Yehonathan Refael","status":"","note":"Revisiting basic paradigms in deep learning; with Dr. Wasim Huleihel"}
+  ],
+  "msc": [
+    {"name":"Adam Aharony","status":"","note":"Contrastive interpretability"},
+    {"name":"Gilad Zusman","status":"","note":"Representation learning for tabular data using B-spline embeddings"},
+    {"name":"David Schiff","status":"","note":"Gradient-free reinforcement learning with TabPFN"},
+    {"name":"Alon Avrahami","status":"","note":"Contrastive concept bottleneck models; with Dr. Ethan Fetaya"},
+    {"name":"Yoni Newman","status":"","note":"Sparsification for robust foundation models; with Prof. Gonen Singer"},
+    {"name":"Omer Vigder","status":"","note":"Robustness to spurious correlations via neural collapse; with Dr. Tom Tirer"},
+    {"name":"Guy Zager","status":"","note":"Conditional denoising autoencoders"}
+  ],
+  "former_phd": [
+    {"name":"Jonathan Svirsky","status":"Graduation: 2026","note":"Dynamic sparsification for deep learning models"},
+    {"name":"Barak Battash","status":"Graduation: 2026","note":"Revisiting basic paradigms in deep learning; with Prof. Lior Wolf"},
+    {"name":"Amit Rozner","status":"Now at Johnson Controls","note":"Learning without supervision in real-world data"}
+  ],
+  "former_msc": [
+    {"name":"Erel Naor","status":"Graduation: 2026","note":"Hybrid tree and neural networks for self-supervised learning with tabular data"},
+    {"name":"Rani Amar","status":"Graduation: 2026","note":"Efficient test-time adaptation of vision models"},
+    {"name":"Shira Schiber","status":"Graduation: 2025","note":"Temporal guidance of video generation; with Dr. Idan Schwartz"},
+    {"name":"Yuval Grinberg","status":"Graduation: 2025","note":"Noise-gated transition correction for learning with noisy labels"},
+    {"name":"Itamar Tsayag","status":"Graduation: 2025","note":"Uncovering strong lottery tickets with stochastic gates"},
+    {"name":"Afek Steinberg","status":"Graduation: 2025","note":"Conditional canonical correlation analysis"},
+    {"name":"Idan Cohen","status":"","note":"Deep local conformal autoencoders for semi-supervised acoustic scene mapping and speaker tracking; with Prof. Sharon Gannot"},
+    {"name":"Amitai Yacobi","status":"","note":"with Dr. Uri Shaham"},
+    {"name":"Kobi Rahimi","status":"","note":"with Dr. Tom Tirer"},
+    {"name":"Daniel Lawton","status":"","note":"with Prof. Amir Averbuch"},
+    {"name":"Mordechai Swissa","status":"","note":""},
+    {"name":"Ofek Ophir","status":"","note":"with Prof. Orit Shefi"},
+    {"name":"Shir Barzel","status":"","note":"with Prof. Amir Averbuch"},
+    {"name":"Jonathan Gradstein","status":"","note":"with Prof. Amir Averbuch"},
+    {"name":"Roni Yasinnik","status":"","note":"with Prof. Amir Averbuch"}
+  ]
+}
