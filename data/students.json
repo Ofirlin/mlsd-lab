@@ -9,7 +9,6 @@
     {"name":"David Schiff","status":"","note":"Gradient-free reinforcement learning with TabPFN"},
     {"name":"Alon Avrahami","status":"","note":"Contrastive concept bottleneck models; with Dr. Ethan Fetaya"},
     {"name":"Yoni Newman","status":"","note":"Sparsification for robust foundation models; with Prof. Gonen Singer"},
-    {"name":"Omer Vigder","status":"","note":"Robustness to spurious correlations via neural collapse; with Dr. Tom Tirer"},
     {"name":"Guy Zager","status":"","note":"Conditional denoising autoencoders"}
   ],
   "former_phd": [
