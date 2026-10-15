@@ -4,6 +4,8 @@
     {"name":"Yehonathan Refael","status":"","note":"Revisiting basic paradigms in deep learning; with Dr. Wasim Huleihel"}
   ],
   "msc": [
+    {"name":"Shlomi Ezra","status":"","note":"Feature selection and synthetic data; with Prof. Dan Vilenchik"},
+    {"name":"Steven Berger","status":"","note":"Interpretable tabular learning and zero-shot feature selection"},
     {"name":"Adam Aharony","status":"","note":"Contrastive interpretability"},
     {"name":"Gilad Zusman","status":"","note":"Representation learning for tabular data using B-spline embeddings"},
     {"name":"David Schiff","status":"","note":"Gradient-free reinforcement learning with TabPFN"},

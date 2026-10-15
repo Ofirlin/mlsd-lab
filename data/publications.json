@@ -1,6 +1,18 @@
 [
   {
     "year": 2026,
+    "title": "Controlling Temporal Pseudo-Label Marginals for Stable Online Test-Time Adaptation",
+    "authors": [
+      "R. Amar",
+      "O. Lindenbaum"
+    ],
+    "venue": "NeurIPS",
+    "type": "inproceedings",
+    "url": "https://neurips.cc/virtual/2026/poster/151349",
+    "dblp": ""
+  },
+  {
+    "year": 2026,
     "title": "DiCoLo: Integration-free and cluster-free detection of localized differential gene co-expression in single-cell data",
     "authors": [
       "R. Li",
@@ -10,8 +22,8 @@
       "O. Lindenbaum",
       "Y. Kluger"
     ],
-    "venue": "RECOMB",
-    "type": "inproceedings",
+    "venue": "Genome Research (accepted)",
+    "type": "article",
     "url": "https://doi.org/10.1101/2025.11.23.689932",
     "dblp": ""
   },
